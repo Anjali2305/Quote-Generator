@@ -1,6 +1,6 @@
 # Quote-Generator
 
-This Website fetch quotes from  <`https://type.fit/api/quotes`> and display random quotes .
+This Website fetch quotes from  (https://type.fit/api/quotes) and display random quotes .
 
 ## Technologies :
 * HTML
@@ -9,4 +9,4 @@ This Website fetch quotes from  <`https://type.fit/api/quotes`> and display rand
 
 
 ### Live Project :
- <`https://anjali2305.github.io/Quote-Generator/`>
+ (https://anjali2305.github.io/Quote-Generator/)
